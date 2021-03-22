@@ -1,4 +1,6 @@
-Page Object model Test automation framework using Selenium with Java, Junit, Cucumber (BDD) and Maven-
+Bblog Web Application Automation (Functionality- Favorite Articles)
+
+Page Object model Test automation framework using Selenium with Java, Junit, Cucumber (BDD) and Maven
 
 Application under test:
 BBlog Webapp
